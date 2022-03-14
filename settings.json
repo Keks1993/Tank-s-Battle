@@ -1,0 +1,76 @@
+{	
+	"axis": {
+		"light_tank": {
+			"strength": 10,
+			"damage": 4,
+			"accuracy": 0.5,
+			"dodge": 0.3,
+			"count": 18
+		},
+		"medium_tank": {
+			"strength": 30,
+			"damage": 6,
+			"accuracy": 0.55,
+			"dodge": 0.2,
+			"count": 11
+		},
+		"heavy_tank": {
+			"strength": 60,
+			"damage": 9,
+			"accuracy": 0.6,
+			"dodge": 0.1,
+			"count": 6
+		},
+		"tank_destroyer": {
+			"strength": 40,
+			"damage": 15,
+			"accuracy": 0.75,
+			"dodge": 0.10,
+			"count": 4
+		},
+		"locomotive_artillery": {
+			"strength": 20,
+			"damage": 20,
+			"accuracy": 0.95,
+			"dodge": 0,
+			"count": 2
+		}
+	},
+	"allies": {
+		"light_tank": {
+			"strength": 8,
+			"damage": 5,
+			"accuracy": 0.7,
+			"dodge": 0.2,
+			"count": 10
+		},
+		"medium_tank": {
+			"strength": 25,
+			"damage": 9,
+			"accuracy": 0.8,
+			"dodge": 0.2,
+			"count": 8
+		},
+		"heavy_tank": {
+			"strength": 50,
+			"damage": 14,
+			"accuracy": 0.8,
+			"dodge": 0.05,
+			"count": 5
+		},
+		"tank_destroyer": {
+			"strength": 30,
+			"damage": 25,
+			"accuracy": 0.9,
+			"dodge": 0.05,
+			"count": 3
+		},
+		"locomotive_artillery": {
+			"strength": 15,
+			"damage": 30,
+			"accuracy": 1,
+			"dodge": 0,
+			"count": 1
+		}
+	}
+}
